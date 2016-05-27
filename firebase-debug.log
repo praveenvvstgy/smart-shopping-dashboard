@@ -1,0 +1,13 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /Users/i322360/.nvm/versions/node/v5.3.0/bin/node /Users/i322360/.nvm/versions/node/v5.3.0/bin/firebase serve
+[debug] CLI Version:  3.0.0
+[debug] Platform:     darwin
+[debug] Node Version: v5.3.0
+[debug] Time:         Fri May 27 2016 08:12:10 GMT+0530 (IST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[warn] ⚠  No Firebase project directory detected. Serving static content from /Users/i322360/Development/SudoCode/flakes-dashboard/flakes
+[info] 
+[info] Server listening at: http://localhost:5000
